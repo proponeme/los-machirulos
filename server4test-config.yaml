@@ -1,0 +1,3 @@
+server4test:
+  server4test-directory: true
+  verbose: true
